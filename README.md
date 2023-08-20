@@ -1,4 +1,4 @@
-Year 1 DSA student in NUS, trying my best~
+Year 2 DSA student in NUS, trying my best~
 
 <!---
 vnnamng/vnnamng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
