@@ -1,4 +1,4 @@
-Year 2 DSA student in NUS, trying my best~
+Year 3 DSA student in NUS, trying my best~
 
 Interest: AI/ML, Quan Comp and Algo.
 
