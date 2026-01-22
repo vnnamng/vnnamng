@@ -1,11 +1,4 @@
-Final Year DSA-CS student in NUS.
+Quant Strats Intern @ GIC.
 
-Intern at PE Strats @ GIC.
-
-LLM Engineer + Data Analyst.
-
-<3 NA
-<!---
-vnnamng/vnnamng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data Science and Analytics + CS. 
+Expert in financial unstructured Data + NLP.
